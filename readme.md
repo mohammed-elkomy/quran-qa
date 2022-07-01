@@ -41,7 +41,7 @@ This is our code submission for qrcd please contact me if you encounter any issu
 4. to reproduce a model when training you need to feed this parameter ```--seed 14``` for a seed of 14
 5. if you are trying to reproduce it manually please verify the dump files you download from colab are the same as the ones shared on the drive link above
 
-## eval checkpoints
+## Eval checkpoints
 
 reproducing table 2 in the paper, total_num_of_models =15LARGE + 15BASE+ 15ARBERT = 45
 
@@ -60,7 +60,7 @@ we have 15 checkpoints, seeds are:
 we have 15 checkpoints, seeds are:
 ```64976 ,64988 ,73862 ,84804 ,79583 ,81181 ,59377 ,59382 ,73869 ,77564 ,79723 ,64952 ,73865 ,59373 ,84349```
 
-## test checkpoints
+## Test checkpoints
 
 reproducing table 3 in the paper, total_num_of_models =16LARGE + 18BASE+ 17ARBERT = 51
 
@@ -91,3 +91,24 @@ we have 17 checkpoints, seeds are:
     - ```python print_results_table.py```
     - make sure to be in ```post_processing``` directory
 5. to evaluate json files, you may run the script ```evaluate_official.py```
+
+## Official Results
+
+#### Eval Data
+
+| **Metric**                        | pRR   | EM  | F1    |
+|-----------------------------------|-------|-----|-------|
+| **Original**                      | 0.639 |  0.39   | 0.594 |
+| **Uninformative answers kept**    | **0.652** |  0.394   | 0.594 |
+| **Uninformative answers removed** | **0.652** |  0.385   |   0.593    |
+
+#### Official Test Data
+
+| **Metric**                        | pRR | EM    | F1    |
+|-----------------------------------|-----|-------|-------|
+| **Original**                      | 0.542 | 0.264 | 0.480 |
+| **Uninformative answers kept**    | **0.557** | 0.268 | 0.485 |
+| **Uninformative answers removed** | **0.565** |  0.273 |   0.494   |
+
+
+**Uninformative answers removed** achieved **0.565** pRR score securing the first place 🥇 among accepted papers 🤓.
