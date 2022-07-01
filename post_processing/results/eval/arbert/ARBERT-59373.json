@@ -1,0 +1,16 @@
+{
+    "best_model": "ARBERT/checkpoint-1395",
+    "epoch": 50.0,
+    "eval_exact_match": 0.3761467889908257,
+    "eval_f1": 0.575502257717164,
+    "eval_optimal_pRR@5": 0.7154845851801682,
+    "eval_pRR": 0.5984924872670893,
+    "eval_samples": 109,
+    "seed": 59373,
+    "total_steps": 2250,
+    "train_loss": 0.2560836918618944,
+    "train_runtime": 5468.6514,
+    "train_samples": 711,
+    "train_samples_per_second": 6.501,
+    "train_steps_per_second": 0.411
+}

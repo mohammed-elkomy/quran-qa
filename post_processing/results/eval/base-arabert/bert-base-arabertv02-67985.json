@@ -1,0 +1,16 @@
+{
+    "best_model": "bert-base-arabertv02/checkpoint-1170",
+    "epoch": 50.0,
+    "eval_exact_match": 0.3577981651376147,
+    "eval_f1": 0.5831676714351041,
+    "eval_optimal_pRR@5": 0.7215374869037623,
+    "eval_pRR": 0.6084101353242719,
+    "eval_samples": 109,
+    "seed": 67985,
+    "total_steps": 2250,
+    "train_loss": 0.297935572942098,
+    "train_runtime": 5520.0825,
+    "train_samples": 712,
+    "train_samples_per_second": 6.449,
+    "train_steps_per_second": 0.408
+}

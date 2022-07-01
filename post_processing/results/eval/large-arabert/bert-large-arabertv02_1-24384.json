@@ -1,0 +1,16 @@
+{
+    "best_model": "bert-large-arabertv02_1/checkpoint-2759",
+    "epoch": 65.0,
+    "eval_exact_match": 0.3761467889908257,
+    "eval_f1": 0.5907794908842632,
+    "eval_optimal_pRR@5": 0.7570173939146311,
+    "eval_pRR": 0.6210994740097283,
+    "eval_samples": 109,
+    "seed": 24384,
+    "total_steps": 5785,
+    "train_loss": 0.22475907458451252,
+    "train_runtime": 8113.2222,
+    "train_samples": 712,
+    "train_samples_per_second": 5.704,
+    "train_steps_per_second": 0.713
+}

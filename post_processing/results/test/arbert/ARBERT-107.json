@@ -1,0 +1,11 @@
+{
+    "best_model": null,
+    "epoch": 32.0,
+    "seed": 107,
+    "total_steps": 1664,
+    "train_loss": 0.334198732717106,
+    "train_runtime": 3460.8996,
+    "train_samples": 820,
+    "train_samples_per_second": 7.582,
+    "train_steps_per_second": 0.481
+}
