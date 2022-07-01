@@ -98,7 +98,7 @@ we have 17 checkpoints, seeds are:
 
 #### Eval Data
 
-| **Metric**                        | pRR   | EM  | F1    |
+| **Model\Metric**                        | pRR   | EM  | F1    |
 |-----------------------------------|-------|-----|-------|
 | **Original**                      | 0.639 |  0.39   | 0.594 |
 | **Uninformative answers kept**    | **0.652** |  0.394   | 0.594 |
@@ -106,7 +106,7 @@ we have 17 checkpoints, seeds are:
 
 #### Official Test Data
 
-| **Metric**                        | pRR | EM    | F1    |
+| **Model\Metric**                  | pRR | EM    | F1    |
 |-----------------------------------|-----|-------|-------|
 | **Original**                      | 0.542 | 0.264 | 0.480 |
 | **Uninformative answers kept**    | **0.557** | 0.268 | 0.485 |
