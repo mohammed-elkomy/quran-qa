@@ -3,6 +3,8 @@
 This is our code submission for qrcd please contact me if you encounter any issue
 ```mohammed.a.elkomy@gmail.com```
 ```mohammed.a.elkomy@f-eng.tanta.edu.eg```
+# Paper on arxiv
+[https://arxiv.org/abs/2206.01550](https://arxiv.org/abs/2206.01550)
 
 # Contents
 
