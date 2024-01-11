@@ -5,10 +5,9 @@ I led the Tanta Computer Engineering (TCE) team for two consecutive years and th
 we successfully achieved first place in both editions of the competition 🥇🥇🥇.
 
 ## Useful links
-[Submission Paper link for Quran QA 2023](https://aclanthology.org/2023.arabicnlp-1.81/)
-[Submission Paper link for Quran QA 2022](https://arxiv.org/abs/2206.01550)
-
-[Competition Link for Quran QA 2023](https://sites.google.com/view/quran-qa-2023/home?authuser=0)
-[Competition Link for Quran QA 2022](https://sites.google.com/view/quran-qa-2022)
+- [Submission Paper link for Quran QA 2023](https://aclanthology.org/2023.arabicnlp-1.81/)
+- [Submission Paper link for Quran QA 2022](https://arxiv.org/abs/2206.01550)
+- [Competition Link for Quran QA 2023](https://sites.google.com/view/quran-qa-2023/home?authuser=0)
+- [Competition Link for Quran QA 2022](https://sites.google.com/view/quran-qa-2022)
 
 
