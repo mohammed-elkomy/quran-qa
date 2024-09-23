@@ -2,10 +2,9 @@
 Use the `TCE QQA2023-A demo notebook.ipynb` file to get an overview of:
 1. installation
 2. data download
-3. faithful data generation
-4. pre-training data generation
-5. training and fine-tuning of a LM
-6. downloading and obtaining a dump file
+3. pre-training data generation
+4. training and fine-tuning of a LM
+5. downloading and obtaining a dump file
 
 **Once the training is made you will find a dump file saved!**
 
