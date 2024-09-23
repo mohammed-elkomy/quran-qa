@@ -1,4 +1,4 @@
-# Quran QA 20223 shared task A participation
+# Quran QA 2023 shared task A participation
 Use the `TCE QQA2023-A demo notebook.ipynb` file to get an overview of:
 1. installation
 2. data download
