@@ -1,10 +1,13 @@
 # Quran QA 2023 shared task A participation
+
 Use the `TCE QQA2023-A demo notebook.ipynb` file to get an overview of:
 1. installation
 2. data download
 3. pre-training data generation
 4. training and fine-tuning of a LM
 5. downloading and obtaining a dump file
+
+🎉 All models can be found on my [huggingface account](https://huggingface.co/MatMulMan)
 
 **Once the training is made you will find a dump file saved!**
 
