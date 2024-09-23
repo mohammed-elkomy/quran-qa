@@ -1,4 +1,4 @@
-# Quran QA 20223 shared task B participation
+# Quran QA 2023 shared task B participation
 
 Use the `TCE QQA2023-B demo notebook.ipynb` file to get an overview of:
 1. installation
@@ -7,6 +7,8 @@ Use the `TCE QQA2023-B demo notebook.ipynb` file to get an overview of:
 4. pre-training data generation
 5. training and fine-tuning of a LM
 6. downloading and obtaining a dump file
+7. 
+🎉 All models can be found on my [huggingface account](https://huggingface.co/MatMulMan)
 
 **Once the training is made you will find a dump file saved!**
 
