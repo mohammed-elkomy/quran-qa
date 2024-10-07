@@ -23,6 +23,10 @@ def download_qrcd2023_A():
     dev_qrel_file_url = "https://gitlab.com/bigirqu/quran-qa-2023/-/raw/main/Task-A/data/qrels/QQA23_TaskA_ayatec_v1.2_qrels_dev.gold"
     train_qrel_file_url = "https://gitlab.com/bigirqu/quran-qa-2023/-/raw/main/Task-A/data/qrels/QQA23_TaskA_ayatec_v1.2_qrels_train.gold"
 
+    # Added URLs for downloading Tafseer files
+    muyassar_file_url = "https://raw.githubusercontent.com/Q-Translate/translations/master/ar.muyassar.txt"
+    jalalayn_file_url = "https://raw.githubusercontent.com/Q-Translate/translations/master/ar.jalalayn.txt"
+
     # Paths to save the files
     dev_query = "data/QQA23_TaskA_dev.tsv"
     doc_file = "data/QQA23_TaskA_QPC_v1.1.tsv"
