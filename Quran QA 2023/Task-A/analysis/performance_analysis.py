@@ -1,5 +1,6 @@
 import io
 import os
+import sys
 from collections import defaultdict
 from zipfile import ZipFile
 
@@ -7,6 +8,7 @@ import pandas as pd
 
 from tqdm import tqdm
 
+sys.path.append(os.getcwd())  # for relative imports
 from analysis.retrieval_ensemble import retrieval_ensemble, optimal_retrieval_ensemble
 from data_scripts import read_qrels_file, read_run_file
 from metrics.Custom_TaskA_eval import evaluate_task_a, evaluation_after_thresh
